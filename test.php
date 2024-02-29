@@ -1,1 +1,1 @@
-<?php system('uname -a');die(); ?>
+<?php phpinfo(); ?>
